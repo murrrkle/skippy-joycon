@@ -1,10 +1,10 @@
 # 581a2-joycon
-Unity Joycon Input for [581a2](https://github.com/murrrkle/581a2/releases).
+Unity Joycon Input for [Skippy](https://github.com/murrrkle/581a2/releases).
 
 Your device ***must*** be Bluetooth enabled to work properly.
 
 ## Compilation Instructions:
-1. Download `joyconInput.unitypackage` package file and import into the latest version of Unity 2017
+1. Download `joyconInput.zip` and import the `.unitypackage` file into the latest version of Unity 2017
 2. In **Edit...** \> **Project Settings...** \> **Player** \> **Other Settings**, change the following:
 * **Configuration** \> **API Compatibility Level** should be set to `.Net 2.0`
 * **Bundle Identifier** should be set to use the appropriate *Company Name* and *Product Name*

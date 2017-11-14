@@ -1,5 +1,6 @@
 # 581a2-joycon
-Unity Joycon Input for 581a2
+Unity Joycon Input for 581a2.
+
 Your device ***must*** be Bluetooth enabled to work properly.
 
 ## Compilation Instructions:
